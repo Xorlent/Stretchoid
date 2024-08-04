@@ -7,3 +7,5 @@ Stretchoid recently moved their scanner infrastructure to Microsoft Azure, obsol
 ### Instructions
 Point your security product/firewall to the following URL as an external threat feed/IP list:
 ```https://raw.githubusercontent.com/Xorlent/Stretchoid/main/stretchoid.txt```
+### Support
+If you believe there are missing IP entries, please open a Github issue with all suspected IP addresses so we can improve this list.  Thank you!

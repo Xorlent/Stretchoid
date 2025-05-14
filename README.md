@@ -1,6 +1,4 @@
 # Stretchoid
-> [!IMPORTANT]  
-> The list is currently stale.  We are actively working on a solution to address recent changes Stretchoid has made to their scanning infrastructure.
 ## Maintained list of Stretchoid scanner IPs
 ### Background
 Stretchoid recently moved their scanner infrastructure to Microsoft Azure, obsoleting all of the Stretchoid IP lists currently in circulation.  This list is updated frequently with the latest available IPs used by Stretchoid scanners.
